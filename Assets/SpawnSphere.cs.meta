@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 2c8416533e19bb54c85c122a32f0b5be
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - spherePrefab: {instanceID: 0}
+  - cubePrefab: {instanceID: 0}
+  - startPosition: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
